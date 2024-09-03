@@ -1,2 +1,2 @@
 # mlops-zoomcamp
-Follow-along repo for ml oomcamp by DataTalksClub
+Follow-along repo for MLOps ZoomCamp by DataTalksClub
